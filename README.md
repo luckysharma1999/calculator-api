@@ -17,7 +17,7 @@ Runs on: http://localhost:3000
 | Operation      | Route Example        | Output       |
 | -------------- | -------------------- | ------------ |
 | Addition       | `/add?a=5&b=3`       | `Result: 8`  |
-| Subtraction    | `/subtract?a=10&b=4` | `Result: 6`  |
-| Multiplication | `/multiply?a=6&b=7`  | `Result: 42` |
-| Division       | `/divide?a=8&b=2`    | `Result: 4`  |
+| Subtraction    | `/sub?a=10&b=4` | `Result: 6`  |
+| Multiplication | `/mul?a=6&b=7`  | `Result: 42` |
+| Division       | `/div?a=8&b=2`    | `Result: 4`  |
 ```
